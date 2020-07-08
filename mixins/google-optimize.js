@@ -7,7 +7,7 @@ export default {
         gaId: 'UA-172029636-1',
         experimentsMapping: [
             {
-                id: 'gJKDm_MrRWSpBlmG9umfEA',
+                id: 'eARO_dFrTxStBNsHKaqIRw',
                 handle: 'colourSwapTest',
                 description: '50/50 - Swap colour test to blue instead of default red.',
                 variants: ['0', '1']
